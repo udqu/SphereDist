@@ -1,2 +1,5 @@
 # OS related files
 .DS_Store
+
+# MATLAB related files
+*.asv
